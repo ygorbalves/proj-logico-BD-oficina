@@ -1,5 +1,5 @@
-# Projeto Conceitual de BD - Aplicação Oficina 
-Projeto conceitual de um BD para uma aplicação de Oficina mecânica. Atividade referente ao Bootcamp Ciência de dados - Unimed BH.
+# Projeto Lógico de BD - Aplicação Oficina 
+Projeto lógico de um BD para uma aplicação de Oficina mecânica. Atividade referente ao Bootcamp Ciência de dados - Unimed BH.
 Projeto desenvolvido utilizando MySQL Workbench.
 #
 Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica.
